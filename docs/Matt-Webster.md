@@ -3,3 +3,4 @@
 ### Chips
 **Gaming**
 ### Please add my bio
+*My favourite colour is blue*

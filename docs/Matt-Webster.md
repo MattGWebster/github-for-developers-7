@@ -4,3 +4,4 @@
 **Gaming**
 ### Please add my bio
 *My favourite colour is blue*
+**Current location:** Millwater
